@@ -1,4 +1,4 @@
-# ps4-modified-iso
+# ps4-modified-ISO
 Modified PS4 ISO files to simplify launching the BD-JB exploit — aiming for an all-in-one auto jailbreak + GoldHEN ISO solution.
 
 
